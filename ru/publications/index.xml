@@ -5,12 +5,56 @@
     <link>https://aatolpina.github.io/ru/publications/</link>
       <atom:link href="https://aatolpina.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aatolpina.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://aatolpina.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://aatolpina.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aatolpina.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-markdown&#34;&gt;📝 Что такое Markdown&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с языком разметки &lt;strong&gt;Markdown&lt;/strong&gt; — простым и удобным инструментом для оформления текста.&lt;/p&gt;
+&lt;p&gt;Markdown широко используется в IT-сфере, документации, блогах и даже при написании учебных материалов. Его главное преимущество — минимализм: текст остается читаемым даже без обработки, а форматирование добавляется с помощью простых символов.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h2&gt;
+&lt;p&gt;Markdown позволяет быстро оформлять текст без сложных инструментов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔠 Заголовки создаются с помощью символа &lt;code&gt;#&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;📝 Выделение текста:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;курсив&lt;/em&gt; — &lt;code&gt;*текст*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;жирный&lt;/strong&gt; — &lt;code&gt;**текст**&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📋 Списки:
+&lt;ul&gt;
+&lt;li&gt;маркированные (&lt;code&gt;-&lt;/code&gt; или &lt;code&gt;*&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;нумерованные (&lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🔗 Ссылки и изображения добавляются через специальные конструкции&lt;/li&gt;
+&lt;li&gt;💻 Код можно оформлять с помощью обратных кавычек &lt;code&gt;`&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это делает Markdown удобным инструментом для написания заметок, отчетов и документации.&lt;/p&gt;
+&lt;h2 id=&#34;-где-применяется-markdown&#34;&gt;💡 Где применяется Markdown&lt;/h2&gt;
+&lt;p&gt;Во время изучения стало понятно, насколько широко используется этот язык:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 В учебе — для оформления конспектов и заданий&lt;/li&gt;
+&lt;li&gt;💻 В программировании — для написания README-файлов и документации&lt;/li&gt;
+&lt;li&gt;🌐 В блогах и сайтах — для публикации статей&lt;/li&gt;
+&lt;li&gt;📊 В проектах — для структурирования информации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown помогает сосредоточиться на содержании, а не на сложном форматировании.&lt;/p&gt;
+&lt;h2 id=&#34;-личный-опыт&#34;&gt;🚀 Личный опыт&lt;/h2&gt;
+&lt;p&gt;Работая с Markdown, я заметила, что писать стало быстрее и удобнее. Текст легко редактировать, а структура получается аккуратной и понятной.&lt;/p&gt;
+&lt;p&gt;Этот инструмент уже стал полезной частью моего обучения и, скорее всего, будет активно использоваться в будущих проектах.&lt;/p&gt;
+&lt;p&gt;Освоение Markdown — небольшой, но важный шаг в развитии навыков работы с информацией и документацией ✨&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями</title>
