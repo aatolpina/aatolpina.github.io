@@ -326,6 +326,10 @@
       href="https://aatolpina.github.io/ru/events/"
     /></url>
   <url>
+    <loc>https://aatolpina.github.io/ru/blog/03/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://aatolpina.github.io/ru/publications/03/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://aatolpina.github.io/ru/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
